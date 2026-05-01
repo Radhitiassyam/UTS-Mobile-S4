@@ -128,7 +128,7 @@ SeminarApp/
 
 ## 🎬 Video Penjelasan
 
-> 🔗 **[Link Video - Upload ke sini]**
+> 🔗 https://youtu.be/fu5cT5W9Uj4
 
 Video mencakup:
 - Penjelasan Halaman Login & Register
@@ -145,11 +145,11 @@ Video mencakup:
 
 | Field | Detail |
 |-------|--------|
-| Nama | [Nama Mahasiswa] |
-| NIM | [NIM] |
+| Nama | Radhitias Salman Syam |
+| NIM | 24552011112 |
 | Kelas | TIF K 24 A |
 | Mata Kuliah | Pemrograman Mobile I |
 
 ---
 
-*© 2025 Universitas Teknologi Bandung - Departemen Teknik Informatika*
+*© 2026 Universitas Teknologi Bandung - Departemen Teknik Informatika*
