@@ -126,18 +126,9 @@ SeminarApp/
 
 ---
 
-## 🎬 Video Penjelasan
+## 🎬 Video Demo
 
 > 🔗 https://youtu.be/fu5cT5W9Uj4
-
-Video mencakup:
-- Penjelasan Halaman Login & Register
-- Penjelasan Halaman Utama (Home)
-- Demo Form Pendaftaran lengkap
-- Demo validasi real-time (error saat mengetik)
-- Demo Dialog Konfirmasi
-- Penjelasan Halaman Hasil
-- Penjelasan kode (Activity + XML)
 
 ---
 
