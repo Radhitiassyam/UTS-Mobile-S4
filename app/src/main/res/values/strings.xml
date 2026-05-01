@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Seminar Registration App</string>
+
+    <!-- Login -->
+    <string name="login_title">Selamat Datang</string>
+    <string name="login_subtitle">Masuk ke akun Anda</string>
+    <string name="hint_username">Username</string>
+    <string name="hint_password">Password</string>
+    <string name="btn_login">Masuk</string>
+    <string name="no_account">Belum punya akun? </string>
+    <string name="register_here">Daftar di sini</string>
+    <string name="error_username_empty">Username tidak boleh kosong</string>
+    <string name="error_password_empty">Password tidak boleh kosong</string>
+    <string name="error_invalid_credentials">Username atau password salah</string>
+
+    <!-- Register -->
+    <string name="register_title">Buat Akun Baru</string>
+    <string name="register_subtitle">Lengkapi data untuk mendaftar</string>
+    <string name="hint_full_name">Nama Lengkap</string>
+    <string name="hint_email_register">Email</string>
+    <string name="hint_new_password">Password</string>
+    <string name="hint_confirm_password">Konfirmasi Password</string>
+    <string name="btn_register">Daftar Sekarang</string>
+    <string name="have_account">Sudah punya akun? </string>
+    <string name="login_here">Masuk di sini</string>
+    <string name="error_name_empty">Nama tidak boleh kosong</string>
+    <string name="error_email_invalid">Email tidak valid</string>
+    <string name="error_password_min">Password minimal 6 karakter</string>
+    <string name="error_password_mismatch">Password tidak cocok</string>
+    <string name="register_success">Registrasi berhasil! Silakan login.</string>
+
+    <!-- Home -->
+    <string name="home_title">Seminar Registration App</string>
+    <string name="home_welcome">Halo, </string>
+    <string name="home_subtitle">Temukan dan daftar seminar menarik untuk mengembangkan skill Anda</string>
+    <string name="btn_daftar_seminar">Daftar Seminar</string>
+    <string name="btn_logout">Keluar</string>
+    <string name="seminar_available">5 Seminar Tersedia</string>
+
+    <!-- Form Pendaftaran -->
+    <string name="form_title">Form Pendaftaran Seminar</string>
+    <string name="hint_nama">Nama Lengkap</string>
+    <string name="hint_email">Alamat Email</string>
+    <string name="hint_phone">Nomor HP (08xxxxxxxxxx)</string>
+    <string name="label_gender">Jenis Kelamin</string>
+    <string name="radio_male">Laki-laki</string>
+    <string name="radio_female">Perempuan</string>
+    <string name="label_seminar">Pilih Seminar</string>
+    <string name="spinner_default">-- Pilih Seminar --</string>
+    <string name="checkbox_agree">Saya menyetujui bahwa data yang diinput adalah benar</string>
+    <string name="btn_submit">Kirim Pendaftaran</string>
+
+    <!-- Validation -->
+    <string name="error_nama_empty">Nama tidak boleh kosong</string>
+    <string name="error_email_empty">Email tidak boleh kosong</string>
+    <string name="error_email_format">Email harus mengandung @</string>
+    <string name="error_phone_empty">Nomor HP tidak boleh kosong</string>
+    <string name="error_phone_numeric">Nomor HP hanya boleh angka</string>
+    <string name="error_phone_length">Nomor HP harus 10–13 digit</string>
+    <string name="error_phone_prefix">Nomor HP harus diawali 08</string>
+    <string name="error_gender">Pilih jenis kelamin terlebih dahulu</string>
+    <string name="error_seminar">Pilih seminar terlebih dahulu</string>
+    <string name="error_checkbox">Centang persetujuan terlebih dahulu</string>
+
+    <!-- Dialog Konfirmasi -->
+    <string name="dialog_title">Konfirmasi Pendaftaran</string>
+    <string name="dialog_message">Apakah data yang Anda isi sudah benar?</string>
+    <string name="dialog_yes">Ya, Kirim</string>
+    <string name="dialog_no">Tidak</string>
+
+    <!-- Hasil -->
+    <string name="result_title">Pendaftaran Berhasil! 🎉</string>
+    <string name="result_subtitle">Data pendaftaran Anda telah tercatat</string>
+    <string name="result_nama">Nama</string>
+    <string name="result_email">Email</string>
+    <string name="result_phone">Nomor HP</string>
+    <string name="result_gender">Jenis Kelamin</string>
+    <string name="result_seminar">Seminar</string>
+    <string name="btn_back_home">Kembali ke Beranda</string>
+    <string name="success_message">Selamat! Pendaftaran Berhasil</string>
+</resources>

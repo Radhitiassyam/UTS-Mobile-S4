@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "C:\\Users\\ACER\\.gradle\\daemon\\8.4\\com.example.seminarapp-mergeDebugResources-30:\\layout\\activity_form_pendaftaran.xml",
+        "source": "C:\\Users\\ACER\\.gradle\\daemon\\8.4\\com.example.seminarapp-main-33:\\layout\\activity_form_pendaftaran.xml"
+    },
+    {
+        "merged": "C:\\Users\\ACER\\.gradle\\daemon\\8.4\\com.example.seminarapp-mergeDebugResources-30:\\layout\\activity_login.xml",
+        "source": "C:\\Users\\ACER\\.gradle\\daemon\\8.4\\com.example.seminarapp-main-33:\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\ACER\\.gradle\\daemon\\8.4\\com.example.seminarapp-mergeDebugResources-30:\\layout\\activity_home.xml",
+        "source": "C:\\Users\\ACER\\.gradle\\daemon\\8.4\\com.example.seminarapp-main-33:\\layout\\activity_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\ACER\\.gradle\\daemon\\8.4\\com.example.seminarapp-mergeDebugResources-30:\\layout\\activity_hasil.xml",
+        "source": "C:\\Users\\ACER\\.gradle\\daemon\\8.4\\com.example.seminarapp-main-33:\\layout\\activity_hasil.xml"
+    },
+    {
+        "merged": "com.example.seminarapp-mergeDebugResources-30:/layout/activity_home.xml",
+        "source": "com.example.seminarapp-main-33:/layout/activity_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\ACER\\.gradle\\daemon\\8.4\\com.example.seminarapp-mergeDebugResources-30:\\layout\\activity_register.xml",
+        "source": "C:\\Users\\ACER\\.gradle\\daemon\\8.4\\com.example.seminarapp-main-33:\\layout\\activity_register.xml"
+    }
+]
